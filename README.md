@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MacyChan
 - 👀 I’m interested in Coding and Data Analysis.
 - 🌱 I’m currently learning Java, R programming, Python.
-- 📫 Welcome to my personal website **macy-chan.tech**
+- 📫 Welcome to my personal website **macy-chan.com**
 
 <!---
 MacyChan/MacyChan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
